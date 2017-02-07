@@ -1,7 +1,7 @@
-![Screenshot](http://git.aksels.me/academic/my-irc/raw/master/screenshot/connect.png)
-![Screenshot](http://git.aksels.me/academic/my-irc/raw/master/screenshot/1client.png)
-![Screenshot](http://git.aksels.me/academic/my-irc/raw/master/screenshot/2client.png)
-![Screenshot](http://git.aksels.me/academic/my-irc/raw/master/screenshot/end.png)
+![Screenshot](https://github.com/AkselsLedins/academic-irc/raw/master/screenshot/connect.png)
+![Screenshot](https://github.com/AkselsLedins/academic-irc/raw/master/screenshot/1client.png)
+![Screenshot](https://github.com/AkselsLedins/academic-irc/raw/master/screenshot/2client.png)
+![Screenshot](https://github.com/AkselsLedins/academic-irc/raw/master/screenshot/end.png)
 
 The aim of this project is to realise a IRC client / server.  
 Server is in C.
